@@ -89,9 +89,9 @@ let items = [
     { name: "chairs", link: "chairs.html" },
     { name: "tables", link: "tables.html" },
     { name: "dining", link: "dining.html" },
-    { name: "complements", link: "404.html" },
+    { name: "complements", link: "complements.html" },
     { name: "fierplaces", link: "404.html" },
-    { name: "classic", link: "404.html" },
+    { name: "classic", link: "classic.html" },
 ];
 // create element in droplist
 items.forEach(items => {
