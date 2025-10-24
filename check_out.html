@@ -13,10 +13,6 @@
     <link rel="icon" href="images/Tables/blend-logo.png" />
   </head>
   <body>
-    <!-- navbar start -->
-
-    <!-- navbar end -->
-
     <div class="check_out">
       <div class="check_out_txt">
         <h1>Shop now & enjoy up to <span>50%</span> offers!</h1>
@@ -26,66 +22,64 @@
         </p>
       </div>
       <div class="container">
-        <div class="recovery">
-          <!-- check -->
-        </div>
-        <div class="noProducts" id="no"></div>
-       <div class="generalInfo">
-        <div class="info">
-          <form id="userInfo" >
-            <div class="allName">
-              <div>
-                <label for="">First name</label>
-                <input type="text" id="fname"/>
-                 <div class="error" id="fname_err"></div>
+        <div class="generalInfo">
+          <div class="info">
+            <form id="userInfo">
+              <div class="allName">
+                <div>
+                  <label for="">First name</label>
+                  <input type="text" id="fname" />
+                  <div class="error" id="fname_err"></div>
+                </div>
+                <div class="optional">
+                  <label for="">last name (<i>optional</i>)</label>
+                  <input type="text" id="lname" />
+                  <div class="error" id="lname_err"></div>
+                </div>
               </div>
-              <div class="optional">
-                <label for="">last name (<i>optional</i>)</label>
-                <input type="text" id="lname"/>
-                 <div class="error" id="lname_err"></div>
+              <label for="">Email</label>
+              <input type="text" id="email" />
+              <div class="error" id="email_err"></div>
+              <label for="">phone</label>
+              <input type="tel" id="phone" value="+20 " />
+              <div class="error" id="phone_err"></div>
+              <label for="">address</label>
+              <input type="text" id="address" />
+              <div class="error" id="address_err"></div>
+              <label for="">payment method </label>
+              <select type="text" id="payment" required>
+                <option value="">choose payment method</option>
+                <option value="paypal">paypal</option>
+                <option value="fawry">fawry</option>
+                <option value="visa">visa</option>
+              </select>
+              <div class="payImages">
+                <div class="img1">
+                  <img src="./images/check_out/paypal.svg" alt="" />
+                </div>
+                <div class="img2">
+                  <img src="./images/check_out/visa.jpg" alt="" />
+                </div>
+                <div class="img3">
+                  <img src="./images/check_out/fawry-icon.png" alt="" />
+                </div>
               </div>
-            </div>
-            <label for="">Email</label>
-            <input type="text" id="email"/>
-            <div class="error" id="email_err"></div>
-            <label for="">phone</label>
-            <input type="tel" id="phone" value="+20 "/>
-            <div class="error" id="phone_err"></div>
-            <label for="">address</label>
-            <input type="text" id="address" />
-            <div class="error" id="address_err"></div>
-            <label for="">payment method
-            </label>
-            <select type="text" id="payment" required>
-              <option value="">choose payment method</option>
-              <option value="paypal">paypal </option>
-              <option value="fawry">fawry </option>
-              <option value="visa">visa </option>
-            </select>
-            <div class="cardNum"></div>
-            <div class="error" id="payment_err"></div>
-            <div class="payImages">
-            <div class="img1">
-            <img src="./images/check_out/paypal.svg" alt="">
-            </div>
-            <div class="img2">
-            <img src="./images/check_out/visa.jpg" alt="">
-            </div>
-            <div class="img3">
-            <img src="./images/check_out/fawry-icon.png" alt=""> 
-            </div>
-            </div>
-            <button type="submit">Order now <i class="fa-solid fa-bag-shopping"></i></button>
-            <div class="success" id="successMsg"></div>
-        </form>         
-        </div>
+              <button type="submit">
+                Order now <i class="fa-solid fa-bag-shopping"></i>
+              </button>
+            </form>
+          </div>
         </div>
       </div>
       <div class="returnHome">
-      <button class="btnShop"><a class="checklink" href="cart.html">Cancel <i class="fa-solid fa-ban"></i></a></button>
+        <button class="btnShop">
+          <a class="checklink" href="cart.html"
+            >Cancel <i class="fa-solid fa-ban"></i
+          ></a>
+        </button>
       </div>
     </div>
-  <script src="./js/check_out.js"></script>
-    <script  src="./js/main.js"></script>
+    <script src="./js/check_out.js"></script>
+    <script src="./js/main.js"></script>
   </body>
 </html>
