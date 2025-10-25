@@ -163,7 +163,7 @@ setTimeout(() => {
     overlay.append(offerBox)
     document.body.append(overlay)
 
-}, 600)
+}, 2000)
 
 
 // create element
