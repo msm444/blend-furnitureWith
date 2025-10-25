@@ -169,11 +169,11 @@ chairs.forEach((Chair, index) => {
   img.addEventListener("mouseout", () => {
     img.src = chairs[index].link
   });
-  img.addEventListener("click", () => {
-    const chairId = chairs[index].id;
-    window.location.href = `chairs-details.html?id=${chairId}`;
+  // img.addEventListener("click", () => {
+  //   const chairId = chairs[index].id;
+  //   window.location.href = `chairs-details.html?id=${chairId}`;
 
-  });
+  // });
   //  from moustafa for new poup
   // showDetails.addEventListener("click", () => {
   //     const chairId = chairs[index].id;

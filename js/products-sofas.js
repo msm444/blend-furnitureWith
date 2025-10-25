@@ -182,11 +182,11 @@ sofas.forEach((sofa, index) => {
   img.addEventListener("mouseout", () => {
     img.src = sofa.link;
   })
-  img.addEventListener("click", () => {
-    const sofaid = sofas[index].id;
-    window.location.href = `sofas-details.html?id=${sofaid}`;
+  // img.addEventListener("click", () => {
+  //   const sofaid = sofas[index].id;
+  //   window.location.href = `sofas-details.html?id=${sofaid}`;
 
-  });
+  // });
   // showDetails.addEventListener("click", () => {
   //     const sofaid = sofas[index].id;
   //     window.location.href = `sofas-details.html?id=${sofaid}`;

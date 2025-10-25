@@ -99,9 +99,9 @@ document.querySelectorAll(".product-img").forEach(img => {
   const hoverSrc = img.dataset.hover;
 
   if (hoverSrc) {
-    img.addEventListener("mouseenter", () => {
-      img.src = hoverSrc;
-    });
+    // img.addEventListener("mouseenter", () => {
+    //   img.src = hoverSrc;
+    // });
     img.addEventListener("mouseleave", () => {
       img.src = originalSrc;
     });

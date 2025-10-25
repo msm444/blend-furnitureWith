@@ -65,7 +65,7 @@ container.innerHTML = complementsProducts.map(
       <span class='show-details'><i class="fas fa-list-ul"></i> Show Details</span>
       <span><i class="far fa-star"></i> Add To Wishlist</span>
     </div>
-    <button class="add-to-cart">Add To Cart</button>
+    <button class="add-to-cart" >Add To Cart</button>
   </div>
   `
 ).join("");
