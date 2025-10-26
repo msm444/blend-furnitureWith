@@ -1,0 +1,184 @@
+[
+  {
+    "id": 30,
+    "name": "Authentic",
+    "link": "./images/chairs/DC-296-DC-297-400x400.jpg",
+    "price": 1550,
+    "quantity": 0
+  },
+  {
+    "id": 32,
+    "name": "Captain Chair I",
+    "link": "./images/chairs/DC-121.jpg",
+    "price": 5000,
+    "quantity": 0
+  },
+  {
+    "id": 33,
+    "name": "Captain Chair II",
+    "link": "./images/chairs/DC-156-600x600.jpg",
+    "price": 1000,
+    "quantity": 0
+  },
+  {
+    "id": 34,
+    "name": "Chanel Chair",
+    "link": "./images/chairs/chanel3.jpg",
+    "price": 3440,
+    "quantity": 0
+  },
+  {
+    "id": 35,
+    "name": "Coco Chair",
+    "link": "./images/chairs/coco-3-705x705.jpg",
+    "price": 7000,
+    "quantity": 0
+  },
+  {
+    "id": 36,
+    "name": "Colina Chair",
+    "link": "./images/chairs/DC-028-600x600.jpg",
+    "price": 1000,
+    "quantity": 0
+  },
+  {
+    "id": 37,
+    "name": "Deliziosa Chair",
+    "link": "./images/chairs/1-705x705.jpg",
+    "price": 4000,
+    "quantity": 0
+  },
+  {
+    "id": 38,
+    "name": "Ferula",
+    "link": "./images/chairs/5-4-705x705.jpg",
+    "price": 5000,
+    "quantity": 0
+  },
+  {
+    "id": 39,
+    "name": "Fleur Chair",
+    "link": "./images/chairs/Fleur-FBWeb-450x450.jpg",
+    "price": 3000,
+    "quantity": 0
+  },
+  {
+    "id": 40,
+    "name": "Helena Chair",
+    "link": "./images/chairs/DC-031-400x400.jpg",
+    "price": 5630,
+    "quantity": 0
+  },
+  {
+    "id": 41,
+    "name": "Hotel Chair",
+    "link": "./images/chairs/Hotel-31-705x705.jpg",
+    "price": 8000,
+    "quantity": 0
+  },
+  {
+    "id": 42,
+    "name": "Maanhattan Bar Set",
+    "link": "./images/chairs/Bar-manhattan-600x600.jpg",
+    "price": 4500,
+    "quantity": 0
+  },
+  {
+    "id": 43,
+    "name": "Mater Familias Pouf",
+    "link": "./images/chairs/23-705x705.jpg",
+    "price": 2300,
+    "quantity": 0
+  },
+  {
+    "id": 44,
+    "name": "Nicols Chair",
+    "link": "./images/chairs/1-7-450x450.jpg",
+    "price": 1000,
+    "quantity": 0
+  },
+  {
+    "id": 45,
+    "name": "Piroutte Chair",
+    "link": "./images/chairs/1-3-450x450.jpg",
+    "price": 4550,
+    "quantity": 0
+  },
+  {
+    "id": 46,
+    "name": "Puella Chair",
+    "link": "./images/chairs/Puella-4-web-3-450x450.jpg",
+    "price": 2330,
+    "quantity": 0
+  },
+  {
+    "id": 47,
+    "name": "Salina I",
+    "link": "./images/chairs/DC-083-400x400.jpg",
+    "price": 2000,
+    "quantity": 0
+  },
+  {
+    "id": 48,
+    "name": "Salina II",
+    "link": "./images/chairs/DC-166-RL-400x400.jpg",
+    "price": 5000,
+    "quantity": 0
+  },
+  {
+    "id": 49,
+    "name": "sandy Chair",
+    "link": "./images/chairs/adjusted2-450x450.jpg",
+    "price": 1000,
+    "quantity": 0
+  },
+  {
+    "id": 50,
+    "name": "Talia Chair",
+    "link": "./images/chairs/DC-188-400x400.jpg",
+    "price": 1000,
+    "quantity": 0
+  },
+  {
+    "id": 51,
+    "name": "Venere Chair",
+    "link": "./images/chairs/4-2-705x705.jpg",
+    "price": 1000,
+    "quantity": 0
+  },
+  {
+    "id": 52,
+    "name": "Deliziante Chair",
+    "link": "./images/chairs/Deliziante-featured-copy-705x705.jpg",
+    "price": 1000,
+    "quantity": 0
+  },
+  {
+    "id": 53,
+    "name": "Grand Hotel Chair",
+    "link": "./images/chairs/adjusted2-705x705.jpg",
+    "price": 1000,
+    "quantity": 0
+  },
+  {
+    "id": 54,
+    "name": "Jacob Chair",
+    "link": "./images/chairs/1004_cal-jacob-web-1-e1544894001500-450x450.jpg",
+    "price": 1000,
+    "quantity": 0
+  },
+  {
+    "id": 55,
+    "name": "Jacob Chair",
+    "link": "./images/chairs/jacob-1-705x705.jpg",
+    "price": 1000,
+    "quantity": 0
+  },
+  {
+    "id": 56,
+    "name": "U'Strozz",
+    "link": "./images/Chairs/U_STROZZ-featured-600x600.jpg",
+    "price": 1000,
+    "quantity": 0
+  }
+]

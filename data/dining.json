@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Arizona",
+    "image": "images/dining/Copy of web1-14-450x450 (1).jpg",
+    "hoverImage": "images/dining/1942AE55-658F-4425-94C1-1E67471F7A09-450x450.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Magda Couture",
+    "image": "images/dining/Web22-2-450x450.jpg",
+    "hoverImage": "images/dining/WEB-1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Indy",
+    "image": "images/dining/Web11-e1586793718975.jpg",
+    "hoverImage": "images/dining/indy-450x450.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Skorpio Round",
+    "image": "images/dining/web-8-450x450.jpg",
+    "hoverImage": "images/dining/web1-6-450x450.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Spyder",
+    "image": "images/dining/web-9-450x450.jpg",
+    "hoverImage": "images/dining/web1-7-450x450.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Spyder Keramik",
+    "image": "images/dining/web-10-450x450.jpg",
+    "hoverImage": "images/dining/web-11.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Arcadia Couture",
+    "image": "images/dining/Copy of Web11-1-450x450.jpg",
+    "hoverImage": "images/dining/Web22.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Magda",
+    "image": "images/dining/Web22-1.jpg",
+    "hoverImage": "images/dining/48007B6B-130F-4DD2-851A-5455124155D2.jpg"
+  }
+]

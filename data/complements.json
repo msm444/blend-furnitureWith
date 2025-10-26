@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Ferula",
+    "image": "images/complements/5-4-705x705.jpg",
+    "hoverImage": "images/complements/1-5-705x705.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Karibù",
+    "image": "images/complements/d157e226-fae0-4b41-9e66-e4bb73b8f869-450x450.jpg",
+    "hoverImage": "images/complements/c8093548-31c0-4933-95e5-34b4e1739bb3-450x450.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Planeta",
+    "image": "images/complements/web-16.jpg",
+    "hoverImage": "images/complements/9B2F5524-7432-4717-AC1D-8544720E69DB.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Pepe",
+    "image": "images/complements/Web1-1-450x450.jpg",
+    "hoverImage": "images/complements/3AB0F77E-3B44-404C-9272-196EC81BF505-450x450.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mater familias Pouf",
+    "image": "images/complements/23-705x705.jpg",
+    "hoverImage": "images/complements/20-450x450.jpg"
+  }
+]

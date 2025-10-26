@@ -1,0 +1,675 @@
+{
+  "categories": {
+    "chairs": {
+      "name": "Chairs",
+      "products": [
+        {
+          "id": 30,
+          "name": "Authentic",
+          "link": "./images/chairs/DC-296-DC-297-400x400.jpg",
+          "price": 1550,
+          "quantity": 0
+        },
+        {
+          "id": 32,
+          "name": "Captain Chair I",
+          "link": "./images/chairs/DC-121.jpg",
+          "price": 5000,
+          "quantity": 0
+        },
+        {
+          "id": 33,
+          "name": "Captain Chair II",
+          "link": "./images/chairs/DC-156-600x600.jpg",
+          "price": 1000,
+          "quantity": 0
+        },
+        {
+          "id": 34,
+          "name": "Chanel Chair",
+          "link": "./images/chairs/chanel3.jpg",
+          "price": 3440,
+          "quantity": 0
+        },
+        {
+          "id": 35,
+          "name": "Coco Chair",
+          "link": "./images/chairs/coco-3-705x705.jpg",
+          "price": 7000,
+          "quantity": 0
+        },
+        {
+          "id": 36,
+          "name": "Colina Chair",
+          "link": "./images/chairs/DC-028-600x600.jpg",
+          "price": 1000,
+          "quantity": 0
+        },
+        {
+          "id": 37,
+          "name": "Deliziosa Chair",
+          "link": "./images/chairs/1-705x705.jpg",
+          "price": 4000,
+          "quantity": 0
+        },
+        {
+          "id": 38,
+          "name": "Ferula",
+          "link": "./images/chairs/5-4-705x705.jpg",
+          "price": 5000,
+          "quantity": 0
+        },
+        {
+          "id": 39,
+          "name": "Fleur Chair",
+          "link": "./images/chairs/Fleur-FBWeb-450x450.jpg",
+          "price": 3000,
+          "quantity": 0
+        },
+        {
+          "id": 40,
+          "name": "Helena Chair",
+          "link": "./images/chairs/DC-031-400x400.jpg",
+          "price": 5630,
+          "quantity": 0
+        },
+        {
+          "id": 41,
+          "name": "Hotel Chair",
+          "link": "./images/chairs/Hotel-31-705x705.jpg",
+          "price": 8000,
+          "quantity": 0
+        },
+        {
+          "id": 42,
+          "name": "Maanhattan Bar Set",
+          "link": "./images/chairs/Bar-manhattan-600x600.jpg",
+          "price": 4500,
+          "quantity": 0
+        },
+        {
+          "id": 43,
+          "name": "Mater Familias Pouf",
+          "link": "./images/chairs/23-705x705.jpg",
+          "price": 2300,
+          "quantity": 0
+        },
+        {
+          "id": 44,
+          "name": "Nicols Chair",
+          "link": "./images/chairs/1-7-450x450.jpg",
+          "price": 1000,
+          "quantity": 0
+        },
+        {
+          "id": 45,
+          "name": "Piroutte Chair",
+          "link": "./images/chairs/1-3-450x450.jpg",
+          "price": 4550,
+          "quantity": 0
+        },
+        {
+          "id": 46,
+          "name": "Puella Chair",
+          "link": "./images/chairs/Puella-4-web-3-450x450.jpg",
+          "price": 2330,
+          "quantity": 0
+        },
+        {
+          "id": 47,
+          "name": "Salina I",
+          "link": "./images/chairs/DC-083-400x400.jpg",
+          "price": 2000,
+          "quantity": 0
+        },
+        {
+          "id": 48,
+          "name": "Salina II",
+          "link": "./images/chairs/DC-166-RL-400x400.jpg",
+          "price": 5000,
+          "quantity": 0
+        },
+        {
+          "id": 49,
+          "name": "sandy Chair",
+          "link": "./images/chairs/adjusted2-450x450.jpg",
+          "price": 1000,
+          "quantity": 0
+        },
+        {
+          "id": 50,
+          "name": "Talia Chair",
+          "link": "./images/chairs/DC-188-400x400.jpg",
+          "price": 1000,
+          "quantity": 0
+        },
+        {
+          "id": 51,
+          "name": "Venere Chair",
+          "link": "./images/chairs/4-2-705x705.jpg",
+          "price": 1000,
+          "quantity": 0
+        },
+        {
+          "id": 52,
+          "name": "Deliziante Chair",
+          "link": "./images/chairs/Deliziante-featured-copy-705x705.jpg",
+          "price": 1000,
+          "quantity": 0
+        },
+        {
+          "id": 53,
+          "name": "Grand Hotel Chair",
+          "link": "./images/chairs/adjusted2-705x705.jpg",
+          "price": 1000,
+          "quantity": 0
+        },
+        {
+          "id": 54,
+          "name": "Jacob Chair",
+          "link": "./images/chairs/1004_cal-jacob-web-1-e1544894001500-450x450.jpg",
+          "price": 1000,
+          "quantity": 0
+        },
+        {
+          "id": 55,
+          "name": "Jacob Chair",
+          "link": "./images/chairs/jacob-1-705x705.jpg",
+          "price": 1000,
+          "quantity": 0
+        },
+        {
+          "id": 56,
+          "name": "U'Strozz",
+          "link": "./images/Chairs/U_STROZZ-featured-600x600.jpg",
+          "price": 1000,
+          "quantity": 0
+        }
+      ]
+    },
+    "sofas": {
+      "name": "Sofas",
+      "products": [
+        {
+          "id": 1,
+          "name": "Leclair",
+          "link": "./images/sofas/Léclair-2-705x705.jpg",
+          "price": 1000,
+          "quantity": 0
+        },
+        {
+          "id": 2,
+          "name": "Cocò L-shape/Corner",
+          "link": "./images/sofas/coco-9-705x705.jpg",
+          "price": 1700,
+          "quantity": 0
+        },
+        {
+          "id": 3,
+          "name": "Gianduiotto LShape/Corner",
+          "link": "./images/sofas/download.jpg",
+          "price": 9100,
+          "quantity": 0
+        },
+        {
+          "id": 4,
+          "name": "Sir William",
+          "link": "./images/sofas/4-5-450x450.jpg",
+          "price": 1200,
+          "quantity": 0
+        },
+        {
+          "id": 5,
+          "name": "Gianduiotto Sofa",
+          "link": "./images/sofas/2-6-450x450.jpg",
+          "price": 2080,
+          "quantity": 0
+        },
+        {
+          "id": 6,
+          "name": "Lazy LShape/Corner",
+          "link": "./images/sofas/4-3-450x450.jpg",
+          "price": 3400,
+          "quantity": 0
+        },
+        {
+          "id": 7,
+          "name": "Cocò Sofa",
+          "link": "./images/sofas/cal-1018_cocò-3-white-450x449.jpg",
+          "price": 6094,
+          "quantity": 0
+        },
+        {
+          "id": 8,
+          "name": "Eliseo Sofa",
+          "link": "./images/sofas/7-1-450x450.jpg",
+          "price": 980,
+          "quantity": 0
+        },
+        {
+          "id": 9,
+          "name": "Banjo Sofa",
+          "link": "./images/sofas/Banjo-1-450x450.jpg",
+          "price": 4000,
+          "quantity": 0
+        },
+        {
+          "id": 10,
+          "name": "Banjo L-Shape/Corner",
+          "link": "./images/sofas/2-450x450.jpg",
+          "price": 6000,
+          "quantity": 0
+        },
+        {
+          "id": 11,
+          "name": "Genius Sofa",
+          "link": "./images/sofas/Genius-10-450x450.jpg",
+          "price": 800,
+          "quantity": 0
+        },
+        {
+          "id": 12,
+          "name": "Toby Wing L-Shape",
+          "link": "./images/sofas/download.jpg",
+          "price": 6000,
+          "quantity": 0
+        },
+        {
+          "id": 13,
+          "name": "Nicolas L-Shape/Corner",
+          "link": "./images/sofas/10-2-705x705.jpg",
+          "price": 8000,
+          "quantity": 0
+        },
+        {
+          "id": 14,
+          "name": "Venere",
+          "link": "./images/sofas/1-2-705x705.jpg",
+          "price": 1000,
+          "quantity": 0
+        },
+        {
+          "id": 15,
+          "name": "Toby Wing",
+          "link": "./images/sofas/12-705x705.jpg",
+          "price": 900,
+          "quantity": 0
+        },
+        {
+          "id": 16,
+          "name": "Nicolas",
+          "link": "./images/sofas/undone-705x705.jpg",
+          "price": 5000,
+          "quantity": 0
+        },
+        {
+          "id": 17,
+          "name": "Mater familias Daybed",
+          "link": "./images/sofas/4-705x705.jpg",
+          "price": 4800,
+          "quantity": 0
+        },
+        {
+          "id": 18,
+          "name": "Mater familias",
+          "link": "./images/sofas/3-705x705.jpg",
+          "price": 6700,
+          "quantity": 0
+        },
+        {
+          "id": 19,
+          "name": "Art nouveau",
+          "link": "./images/sofas/1-1-705x705.jpg",
+          "price": 3000,
+          "quantity": 0
+        },
+        {
+          "id": 20,
+          "name": "Taylor Lshape",
+          "link": "./images/sofas/Taylor-white-705x705.jpg",
+          "price": 1000,
+          "quantity": 0
+        },
+        {
+          "id": 21,
+          "name": "Paride L-Shape/Corner",
+          "link": "./images/sofas/paride-2-705x705.jpg",
+          "price": 1000,
+          "quantity": 0
+        },
+        {
+          "id": 22,
+          "name": "Paride",
+          "link": "./images/sofas/paride-4-1-705x705.jpg",
+          "price": 1000,
+          "quantity": 0
+        },
+        {
+          "id": 23,
+          "name": "Elisir L-Shape/Corner",
+          "link": "./images/sofas/elisir-on-705x705.jpg",
+          "price": 1000,
+          "quantity": 0
+        },
+        {
+          "id": 24,
+          "name": "Fleur",
+          "link": "./images/sofas/Fleur-1-705x705.jpg",
+          "price": 1000,
+          "quantity": 0
+        },
+        {
+          "id": 25,
+          "name": "Matheola LShape/Corner",
+          "link": "./images/sofas/Matheola-1-705x705.jpg",
+          "price": 1000,
+          "quantity": 0
+        },
+        {
+          "id": 26,
+          "name": "Coco",
+          "link": "./images/sofas/cal-1018_cocò-3-white-450x449.jpg",
+          "price": 1000,
+          "quantity": 0
+        },
+        {
+          "id": 27,
+          "name": "Matheola",
+          "link": "./images/sofas/Matheola-10-705x705.jpg",
+          "price": 1000,
+          "quantity": 0
+        },
+        {
+          "id": 28,
+          "name": "Fox trot",
+          "link": "./images/sofas/Fox-trot-1-705x705.jpg",
+          "price": 1000,
+          "quantity": 0
+        },
+        {
+          "id": 29,
+          "name": "Romeo Relax LShape/Corner",
+          "link": "./images/sofas/paride-2-705x705.jpg",
+          "price": 1000,
+          "quantity": 0
+        },
+        {
+          "id": 30,
+          "name": "Elisir",
+          "link": "./images/sofas/Elisir-web-705x705.jpg",
+          "price": 1000,
+          "quantity": 0
+        }
+      ]
+    },
+    "tables": {
+      "name": "Tables",
+      "products": [
+        {
+          "id": 1,
+          "name": "Benny",
+          "link": "./images/Tables/WEB11-450x450.jpg",
+          "price": 1800,
+          "quantity": 0
+        },
+        {
+          "id": 2,
+          "name": "Benny Keramik",
+          "link": "./images/Tables/web2-9-450x450.jpg",
+          "price": 1000,
+          "quantity": 0
+        },
+        {
+          "id": 3,
+          "name": "Billy",
+          "link": "./images/Tables/web1-18-450x450.jpg",
+          "price": 1200,
+          "quantity": 0
+        },
+        {
+          "id": 4,
+          "name": "Billy Keramik",
+          "link": "./images/Tables/web2-10-450x450.jpg",
+          "price": 600,
+          "quantity": 0
+        },
+        {
+          "id": 5,
+          "name": "Billy Wood",
+          "link": "./images/Tables/web1-18-450x450.jpg",
+          "price": 650,
+          "quantity": 0
+        },
+        {
+          "id": 6,
+          "name": "Diamond Coffee/Side Table",
+          "link": "./images/Tables/3-450x450.jpg",
+          "price": 700,
+          "quantity": 0
+        },
+        {
+          "id": 7,
+          "name": "Flitch&Grain-Block Table",
+          "link": "./images/Tables/webb-1-450x450.jpg",
+          "price": 1800,
+          "quantity": 0
+        },
+        {
+          "id": 8,
+          "name": "Flitch&Grain-Blocks Table",
+          "link": "./images/Tables/table25.png",
+          "price": 2000,
+          "quantity": 0
+        },
+        {
+          "id": 9,
+          "name": "Flitch&Grain-Bold Table",
+          "link": "./images/Tables/web2-11-450x450.jpg",
+          "price": 2100,
+          "quantity": 0
+        },
+        {
+          "id": 10,
+          "name": "Flitch&Grain-Edge Table",
+          "link": "./images/Tables/web2--450x450.jpg",
+          "price": 5000,
+          "quantity": 0
+        },
+        {
+          "id": 11,
+          "name": "Flitch&Grain-Falanka SQ Table",
+          "link": "./images/Tables/table22.png",
+          "price": 1500,
+          "quantity": 0
+        },
+        {
+          "id": 12,
+          "name": "Flitch&Grain-Falanka Table",
+          "link": "./images/Tables/table21.png",
+          "price": 860,
+          "quantity": 0
+        },
+        {
+          "id": 13,
+          "name": "Flitch&Grain-Sam Table",
+          "link": "./images/Tables/web2-12-450x450.jpg",
+          "price": 780,
+          "quantity": 0
+        },
+        {
+          "id": 14,
+          "name": "Kare Coffee/Side table",
+          "link": "./images/Tables/Kare-coffee-400x400.jpg",
+          "price": 1550,
+          "quantity": 0
+        },
+        {
+          "id": 15,
+          "name": "Prizma table set",
+          "link": "./images/Tables/Prizma-web2-400x400.jpg",
+          "price": 3200,
+          "quantity": 0
+        },
+        {
+          "id": 16,
+          "name": "Scacco",
+          "link": "./images/Tables/web-size-template-450x450.jpg",
+          "price": 2660,
+          "quantity": 0
+        },
+        {
+          "id": 17,
+          "name": "Sting bb",
+          "link": "./images/Tables/web-2-4-450x450.jpg",
+          "price": 1580,
+          "quantity": 0
+        },
+        {
+          "id": 18,
+          "name": "Terminal Keramik Premium",
+          "link": "./images/Tables/web-2-5-450x450.jpg",
+          "price": 1000,
+          "quantity": 0
+        }
+      ]
+    },
+    "dining": {
+      "name": "Dining",
+      "products": [
+        {
+          "id": 1,
+          "name": "Arizona",
+          "image": "images/dining/Copy of web1-14-450x450 (1).jpg",
+          "hoverImage": "images/dining/1942AE55-658F-4425-94C1-1E67471F7A09-450x450.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Magda Couture",
+          "image": "images/dining/Web22-2-450x450.jpg",
+          "hoverImage": "images/dining/WEB-1.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Indy",
+          "image": "images/dining/Web11-e1586793718975.jpg",
+          "hoverImage": "images/dining/indy-450x450.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Skorpio Round",
+          "image": "images/dining/web-8-450x450.jpg",
+          "hoverImage": "images/dining/web1-6-450x450.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Spyder",
+          "image": "images/dining/web-9-450x450.jpg",
+          "hoverImage": "images/dining/web1-7-450x450.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Spyder Keramik",
+          "image": "images/dining/web-10-450x450.jpg",
+          "hoverImage": "images/dining/web-11.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Arcadia Couture",
+          "image": "images/dining/Copy of Web11-1-450x450.jpg",
+          "hoverImage": "images/dining/Web22.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Magda",
+          "image": "images/dining/Web22-1.jpg",
+          "hoverImage": "images/dining/48007B6B-130F-4DD2-851A-5455124155D2.jpg"
+        }
+      ]
+    },
+    "complements": {
+      "name": "Complements",
+      "products": [
+        {
+          "id": 1,
+          "name": "Ferula",
+          "image": "images/complements/5-4-705x705.jpg",
+          "hoverImage": "images/complements/1-5-705x705.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Karibù",
+          "image": "images/complements/d157e226-fae0-4b41-9e66-e4bb73b8f869-450x450.jpg",
+          "hoverImage": "images/complements/c8093548-31c0-4933-95e5-34b4e1739bb3-450x450.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Planeta",
+          "image": "images/complements/web-16.jpg",
+          "hoverImage": "images/complements/9B2F5524-7432-4717-AC1D-8544720E69DB.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Pepe",
+          "image": "images/complements/Web1-1-450x450.jpg",
+          "hoverImage": "images/complements/3AB0F77E-3B44-404C-9272-196EC81BF505-450x450.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Mater familias Pouf",
+          "image": "images/complements/23-705x705.jpg",
+          "hoverImage": "images/complements/20-450x450.jpg"
+        }
+      ]
+    },
+    "classic": {
+      "name": "Classic",
+      "products": [
+        {
+          "id": 1,
+          "name": "Ferula",
+          "image": "images/classic/DC-028-400x400.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Karibù",
+          "image": "images/classic/DC-083-400x400.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Planeta",
+          "image": "images/classic/DC-121-400x400.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Pepe",
+          "image": "images/classic/DC-153-400x400.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Mater familias Pouf",
+          "image": "images/classic/DC-156.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Medor writing desk",
+          "image": "images/classic/DE-122-400x400.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Salina II",
+          "image": "images/classic/DE-123.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Helena chair",
+          "image": "images/classic/DC-031-400x400.jpg"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "totalProducts": 95,
+    "lastUpdated": "2024-12-19",
+    "version": "1.0"
+  }
+}

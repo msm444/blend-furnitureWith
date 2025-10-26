@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "name": "Authentic",
+    "link": "./images/chairs/DC-296-DC-297-400x400.jpg",
+    "model": "Chair: DC 296",
+    "description": "Foot Stool: DC 297"
+  },
+  {
+    "id": 2,
+    "name": "Captain Chair I",
+    "link": "./images/chairs/DC-121.jpg",
+    "model": "DC 121",
+    "description": "CAPTAIN  CHAIR"
+  },
+  {
+    "id": 3,
+    "name": "Captain Chair II",
+    "link": "./images/chairs/DC-156-600x600.jpg",
+    "model": "DC 156",
+    "description": "COLONIAL SWIVEL"
+  },
+  {
+    "id": 4,
+    "name": "Chanel Chair",
+    "link": "./images/chairs/chanel3.jpg",
+    "model": "Chanel CAL 1031",
+    "description": "A functional and distinctive piece of furniture, Calia Italia's new armchair is enhanced by squared though soft lines and a strong character, thus combining comfort and versatility."
+  },
+  {
+    "id": 5,
+    "name": "Coco Chair",
+    "link": "./images/chairs/coco-3-705x705.jpg",
+    "model": "Cocò CAL 1018",
+    "description": "Cocò is an elegant armchair with compact dimensions. It is characterised by slender metal feet (inserted into the armrests) that become an integral part of the design, giving the model great appeal."
+  },
+  {
+    "id": 6,
+    "name": "Colina Chair",
+    "link": "./images/chairs/DC-028-600x600.jpg",
+    "model": "DC 028",
+    "description": "TULIP CARVING NO ARM"
+  },
+  {
+    "id": 7,
+    "name": "Deliziosa Chair",
+    "link": "./images/chairs/1-705x705.jpg",
+    "model": "DELIZIOSA CAL 997",
+    "description": "Thanks to its wide and embracing seating area, the Deliziosa guarantees an excellent ergonomic"
+  },
+  {
+    "id": 8,
+    "name": "Ferula",
+    "link": "./images/chairs/5-4-705x705.jpg",
+    "model": "Ferula",
+    "description": "The Ferula chair, an iconic design element, is the result of a cooperation between designers from Lucania and Apulia and students from the Politecnico di Milano. The Ferula strongly evokes Matera, its territory and the life-style of men and women living in its ancient neighborhoods, the Sassi."
+  },
+  {
+    "id": 9,
+    "name": "Fleur Chair",
+    "link": "./images/chairs/Fleur-FBWeb-450x450.jpg",
+    "model": "Fleur.1106",
+    "description": "With its elegant, peculiar design, the Fleur features pin-shaped legs and sophisticated decorative stitches. Such distinctive traits and compact proportions will definitely enhance also small living rooms and will be perfect for contract business."
+  },
+  {
+    "id": 10,
+    "name": "Helena Chair",
+    "link": "./images/chairs/DC-031-400x400.jpg",
+    "model": "DC 031",
+    "description": "RAFFLES CROSS NO ARM"
+  },
+  {
+    "id": 11,
+    "name": "Hotel Chair",
+    "link": "./images/chairs/Hotel-31-705x705.jpg",
+    "model": "Hotel",
+    "description": "Styled with vague \"deco art\" lines and shapes, a shell to find refuge in, Hotel is one of Calia Italia ageless classics."
+  },
+  {
+    "id": 12,
+    "name": "Maanhattan Bar Set",
+    "link": "./images/chairs/Bar-manhattan-600x600.jpg",
+    "model": "Chair: DC 128",
+    "description": ""
+  },
+  {
+    "id": 13,
+    "name": "Mater Familias Pouf",
+    "link": "./images/chairs/23-705x705.jpg",
+    "model": "Mater familias CAL 1139",
+    "description": "Mater Familias is the result of a project called Architecture of Shame, created together with Matera European Capital of Culture 2019. The project is based on the idea of the mother who is the real core component of a family and started from the Day Bed model, inspired by the psychotherapist's couch, that portrays multilayers cushions and copper-coloured feet. The thin and light structure, together with the elegantly designed leg, represent some reference elements for the whole collection with the difference that in this model, there is a multilayered cushion that recalls all the ages of the Matera's history. The visible stitches have been realised following a cross pattern, to remind the closure of the old bags of grain, and they all have been handcrafted in order to pay tribute once again to the feminine craftsmanship."
+  },
+  {
+    "id": 14,
+    "name": "Nicols Chair",
+    "link": "./images/chairs/1-7-450x450.jpg",
+    "model": "Nicolas PRM 1121",
+    "description": "The Nicolas model also includes an armchair version, which is a compact seat that differs from the sofa with its fixed back and small-size."
+  },
+  {
+    "id": 15,
+    "name": "Piroutte Chair",
+    "link": "./images/chairs/1-3-450x450.jpg",
+    "model": "Pirouette CAL 1157",
+    "description": "Pirouette is an elegant armchair with compact dimensions. It is characterised by slender feet that become an integral part of the design, giving the model great appeal."
+  },
+  {
+    "id": 16,
+    "name": "Puella Chair",
+    "link": "./images/chairs/Puella-4-web-3-450x450.jpg",
+    "model": "PUELLA.1070/1071",
+    "description": ""
+  },
+  {
+    "id": 17,
+    "name": "Salina I",
+    "link": "./images/chairs/DC-083-400x400.jpg",
+    "model": "DC 083",
+    "description": "SALINA CHAIR"
+  },
+  {
+    "id": 18,
+    "name": "Salina II",
+    "link": "./images/chairs/DC-166-RL-400x400.jpg",
+    "model": "DC 166 RL",
+    "description": "SALINA RATTAN"
+  },
+  {
+    "id": 19,
+    "name": "sandy Chair",
+    "link": "./images/chairs/adjusted2-450x450.jpg",
+    "model": "Sandy CAL 791",
+    "description": "Elegance and accuracy live together in this chair with undisputable comfort."
+  },
+  {
+    "id": 20,
+    "name": "Talia Chair",
+    "link": "./images/chairs/DC-188-400x400.jpg",
+    "model": "Venere CAL 1149",
+    "description": "A taste of Venus can found in the armchair, small armchair, footstool and bench versions that all present the same essential style of the sofa model. The armchair takes on the slim and enveloping structure of the model as well as the soft cushion for the seat whilst the small armchair also includes a back cushion, designed to offer a remarkable comfort experience despite its small size. It is perfect even for smaller environments. The footstool and bench versions, characterised by the fork foot typical of the collection, give the possibility to furnish the space with the most suitable composition for one's needs. The footstools are in fact available in rectangular and round shapes – while the bench, which is longer and less deep, can be used as a bench in the living area or as a backrest to furnish sleeping areas."
+  },
+  {
+    "id": 21,
+    "name": "Venere Chair",
+    "link": "./images/chairs/4-2-705x705.jpg",
+    "model": "Venere CAL 1149",
+    "description": "A taste of Venus can found in the armchair, small armchair, footstool and bench versions that all present the same essential style of the sofa model. The armchair takes on the slim and enveloping structure of the model as well as the soft cushion for the seat whilst the small armchair also includes a back cushion, designed to offer a remarkable comfort experience despite its small size. It is perfect even for smaller environments. The footstool and bench versions, characterised by the fork foot typical of the collection, give the possibility to furnish the space with the most suitable composition for one's needs. The footstools are in fact available in rectangular and round shapes – while the bench, which is longer and less deep, can be used as a bench in the living area or as a backrest to furnish sleeping areas."
+  },
+  {
+    "id": 22,
+    "name": "Deliziante Chair",
+    "link": "./images/chairs/Deliziante-featured-copy-705x705.jpg",
+    "model": "Delizante CAL 1000",
+    "description": "Capitonné upholstery both on the seating area and on the whole structure further enhances the Deliziante easy chair, to become an icon of elegance, symbol of the artisan care for details. that characterizes at product of Calia Italia collection."
+  },
+  {
+    "id": 23,
+    "name": "Grand Hotel Chair",
+    "link": "./images/chairs/adjusted2-705x705.jpg",
+    "model": "",
+    "description": "An \"evergreen\" chair perfectly balancing tradition and classicism. with its distinctive compact volumes of the seat-back and beechwood massive frame, Grand hotel will be the main feature in any living room."
+  },
+  {
+    "id": 24,
+    "name": "Jacob Chair",
+    "link": "./images/chairs/1004_cal-jacob-web-1-e1544894001500-450x450.jpg",
+    "model": "Jacob CAL 1004",
+    "description": "High back, soft feather seat, creates the ultimate comfort: Jacob the new Calia Italia Chair, perfectly matches the classic style of the bergere, reading armchairs, through being reinterpreted with a contemporary trendy design that wisely merges natural leathers or precious fabrics."
+  },
+  {
+    "id": 25,
+    "name": "Jacob Chair",
+    "link": "./images/chairs/jacob-1-705x705.jpg",
+    "model": "Jacob CAL 1004",
+    "description": "This special edition of the Jacob Arm chair, features a back covered in the best quality Italian leather and the interior back and seat in a superior quality Italian fabric."
+  },
+  {
+    "id": 26,
+    "name": "U'Strozz",
+    "link": "./images/Chairs/U_STROZZ-featured-600x600.jpg",
+    "model": "",
+    "description": "U'Strozz, meaning \"cloth\" in the dialect of Matera, is the new footstool made by several layers of leather or fabric production scraps in different colors, hold together by a book stool nylon belt. Each leather or fabric layer wraps a polyurethane sheet that gives the whole project an unexpected comfort."
+  },
+  {
+    "id": 1,
+    "name": "Leclair",
+    "link": "./images/sofas/Léclair-2-705x705.jpg",
+    "model": "L'éclair CAL 1243",
+    "description": "The model stands out for its sculptural yet soft volumes. This characteristic gives the product an attractive and modern look, ideal for those seeking innovative design without sacrificing comfort. The Èclair, available in 2-seater and ½, 3-seater, and maxi 3-seater versions, is finished with perimeter piping that embellishes the backrests and armrests, along with decorative stitching on the front of the seat."
+  },
+  {
+    "id": 2,
+    "name": "Cocò L-shape/Corner",
+    "link": "./images/sofas/coco-9-705x705.jpg",
+    "model": "Cocò CAL 1018",
+    "description": "Cocò is an elegant armchair with compact dimensions. It is characterised by slender metal feet (inserted into the armrests) that become an integral part of the design, giving the model great appeal."
+  },
+  {
+    "id": 3,
+    "name": "Gianduiotto LShape/Corner",
+    "link": "./images/sofas/download.jpg",
+    "model": "Gianduiotto CAL 1167",
+    "description": "The main characteristic of Gianduiotto is versatility. The backrest and armrest of the sofa can be freely positioned to allow multiple sitting positions, including vis-à-vis as well as a position for lying.It is a sofa with an open and unstructured nature which, together with its decorative, design embellishing stitching, lends itself perfectly to the centre of a room."
+  },
+  {
+    "id": 4,
+    "name": "Sir William",
+    "link": "./images/sofas/4-5-450x450.jpg",
+    "model": "Sir William",
+    "description": "With its curvy profile, capitonné patterns and maximum comfort, Sir William evokes sophisticated bon ton atmospheres. A leather covered unique sofa that has become synonymous with high quality craftsmanship."
+  },
+  {
+    "id": 5,
+    "name": "Gianduiotto Sofa",
+    "link": "./images/sofas/2-6-450x450.jpg",
+    "model": "Gianduiotto CAL 1167",
+    "description": "The main characteristic of Gianduiotto is versatility. The backrest and armrest of the sofa can be freely positioned to allow multiple sitting positions, including vis-à-vis as well as a position for lying.It is a sofa with an open and unstructured nature which, together with its decorative, design embellishing stitching, lends itself perfectly to the centre of a room."
+  },
+  {
+    "id": 6,
+    "name": "Lazy LShape/Corner",
+    "link": "./images/sofas/4-3-450x450.jpg",
+    "model": "Lazy CAL 1107_2",
+    "description": "The model includes a touch control recliner version that can lift the footboard and increase the depth of the seat and there is also a large corner footstool that allows for simultaneous operation of the mechanisms of both adjacent armchairs. Indeed, it can be transformed into a comfortable seat thanks to the ballasted mobile backrest that can be positioned as desired."
+  },
+  {
+    "id": 7,
+    "name": "Cocò Sofa",
+    "link": "./images/sofas/cal-1018_cocò-3-white-450x449.jpg",
+    "model": "Cocò CAL 1018",
+    "description": "Cocò is an elegant armchair with compact dimensions. It is characterised by slender metal feet (inserted into the armrests) that become an integral part of the design, giving the model great appeal."
+  },
+  {
+    "id": 8,
+    "name": "Eliseo Sofa",
+    "link": "./images/sofas/7-1-450x450.jpg",
+    "model": "Eliseo PRM 1127",
+    "description": "With a design conceived down to the smallest detail, Eliseo is a modular sofa by Calia Italia that guarantees an unparalleled comfort experience. Thanks to a flexible backrest that adapts to the weight of your body, along with a wide seat characterised by rounded corners that become armrests, Eliseo is designed to wrap around you in a style that will conquer all your senses."
+  },
+  {
+    "id": 9,
+    "name": "Banjo Sofa",
+    "link": "./images/sofas/Banjo-1-450x450.jpg",
+    "model": "Banjo PRM 1087",
+    "description": "Thanks to the typical squared quilted pattern and a wide range of bright colors, the Banjo is the ideal choice to furnish evolving living spaces. Being modular and therefore extremely versatile, this model can be arranged so to create numberless configurations, from a single unit to be used as a chair up to large corner compositions that will make it perfect for every need."
+  },
+  {
+    "id": 10,
+    "name": "Banjo L-Shape/Corner",
+    "link": "./images/sofas/2-450x450.jpg",
+    "model": "Banjo PRM 1097",
+    "description": "Thanks to the typical squared quilted pattern and a wide range of bright colors, the Banjo is the ideal choice to furnish evolving living spaces. Being modular and therefore extremely versatile, this model can be arranged so to create numberless configurations, from a single unit to be used as a chair up to large corner compositions that will make it perfect for every need."
+  },
+  {
+    "id": 11,
+    "name": "Genius Sofa",
+    "link": "./images/sofas/Genius-10-450x450.jpg",
+    "model": "Genius Cal 1072",
+    "description": "The Genius Loci, also available in a chaise-longue configuration. Features a stylish shape. Further, enhanced by slender armrests and elegant feet. The model Is equipped with a mechanism which allows the seat depth and the back height to be increased by 78 cm."
+  },
+  {
+    "id": 12,
+    "name": "Toby Wing L-Shape",
+    "link": "./images/sofas/download.jpg",
+    "model": "Toby Wing PRM 1161",
+    "description": "Like two proper wings, the backrests and the arms of the Toby Wing can spread to offer unique moments of pure relax. The back sections slid backwards increase the seat depth of 42 cm whereas the sideways moving arms once extended, increase the seat width of 25 cm. The Toby wing becomes a unique place, an island where to rest, dream, taking a break in full comfort."
+  },
+  {
+    "id": 13,
+    "name": "Nicolas L-Shape/Corner",
+    "link": "./images/sofas/10-2-705x705.jpg",
+    "model": "Nicolas PRM 1121",
+    "description": "Nicolas is a modern sofa, featuring distinctive traits and a rigorous design wisely combined to a soft padding. Equipped with manually liftable headrests, the sofa is also available as a recliner or motion, that allows the seat to be extended by 40 cm, turning it into a chaise longue. The recliner version is also available on the extra large seats, that can comfortably host two people."
+  },
+  {
+    "id": 14,
+    "name": "Venere",
+    "link": "./images/sofas/1-2-705x705.jpg",
+    "model": "Venere CAL 1149",
+    "description": "Created as an interpretation of the Mater Familias collection but with more of an Italian taste, Venus represents the most essential model of this collection. Its thin and enchanting structure houses soft cushions for the seat, backrest and armrests and welcomes every moment of your life giving you experiences of pure comfort. Venere is available both as a sofa version and as a small sofa and dormeuse. Small sofa versions feature compact proportions and are the perfect choice to suit smaller environments. The dormeuse version on the other hand recalls the Mater Familias Day Bed's design, with a more embracing seat, thanks to its back and armrest cushions."
+  },
+  {
+    "id": 15,
+    "name": "Toby Wing",
+    "link": "./images/sofas/12-705x705.jpg",
+    "model": "Toby Wing PRM 1161",
+    "description": "Like two proper wings, the backrests and the arms of the Toby Wing can spread to offer unique moments of pure relax. The back sections slid backwards increase the seat depth of 42 cm whereas the sideways moving arms once extended, increase the seat width of 25 cm. The Toby wing becomes a unique place, an island where to rest, dream, taking a break in full comfort."
+  },
+  {
+    "id": 16,
+    "name": "Nicolas",
+    "link": "./images/sofas/undone-705x705.jpg",
+    "model": "Nicolas PREMIUM 1121",
+    "description": "Like two proper wings, the backrests and the arms of the Toby Wing can spread to offer unique moments of pure relax. The back sections slid backwards increase the seat depth of 42 cm whereas the sideways moving arms once extended, increase the seat width of 25 cm. The Toby wing becomes a unique place, an island where to rest, dream, taking a break in full comfort."
+  },
+  {
+    "id": 17,
+    "name": "Mater familias Daybed",
+    "link": "./images/sofas/4-705x705.jpg",
+    "model": "Mater familias CAL 1139",
+    "description": "Like two proper wings, the backrests and the arms of the Toby Wing can spread to offer unique moments of pure relax. The back sections slid backwards increase the seat depth of 42 cm whereas the sideways moving arms once extended, increase the seat width of 25 cm. The Toby wing becomes a unique place, an island where to rest, dream, taking a break in full comfort."
+  },
+  {
+    "id": 18,
+    "name": "Mater familias",
+    "link": "./images/sofas/3-705x705.jpg",
+    "model": "Mater familias CAL 1139",
+    "description": "Like two proper wings, the backrests and the arms of the Toby Wing can spread to offer unique moments of pure relax. The back sections slid backwards increase the seat depth of 42 cm whereas the sideways moving arms once extended, increase the seat width of 25 cm. The Toby wing becomes a unique place, an island where to rest, dream, taking a break in full comfort."
+  },
+  {
+    "id": 19,
+    "name": "Art nouveau",
+    "link": "./images/sofas/1-1-705x705.jpg",
+    "model": "",
+    "description": "Like two proper wings, the backrests and the arms of the Toby Wing can spread to offer unique moments of pure relax. The back sections slid backwards increase the seat depth of 42 cm whereas the sideways moving arms once extended, increase the seat width of 25 cm. The Toby wing becomes a unique place, an island where to rest, dream, taking a break in full comfort."
+  },
+  {
+    "id": 20,
+    "name": "Taylor Lshape",
+    "link": "./images/sofas/Taylor-white-705x705.jpg",
+    "model": "",
+    "description": "Like two proper wings, the backrests and the arms of the Toby Wing can spread to offer unique moments of pure relax. The back sections slid backwards increase the seat depth of 42 cm whereas the sideways moving arms once extended, increase the seat width of 25 cm. The Toby wing becomes a unique place, an island where to rest, dream, taking a break in full comfort."
+  },
+  {
+    "id": 21,
+    "name": "Paride L-Shape/Corner",
+    "link": "./images/sofas/paride-2-705x705.jpg",
+    "model": "Paride PRM 1119",
+    "description": "Like two proper wings, the backrests and the arms of the Toby Wing can spread to offer unique moments of pure relax. The back sections slid backwards increase the seat depth of 42 cm whereas the sideways moving arms once extended, increase the seat width of 25 cm. The Toby wing becomes a unique place, an island where to rest, dream, taking a break in full comfort."
+  },
+  {
+    "id": 22,
+    "name": "Paride",
+    "link": "./images/sofas/paride-4-1-705x705.jpg",
+    "model": "Paride PRM 1119",
+    "description": "Like two proper wings, the backrests and the arms of the Toby Wing can spread to offer unique moments of pure relax. The back sections slid backwards increase the seat depth of 42 cm whereas the sideways moving arms once extended, increase the seat width of 25 cm. The Toby wing becomes a unique place, an island where to rest, dream, taking a break in full comfort."
+  },
+  {
+    "id": 23,
+    "name": "Elisir L-Shape/Corner",
+    "link": "./images/sofas/elisir-on-705x705.jpg",
+    "model": "Elisir CAL 1060/1078",
+    "description": "Like two proper wings, the backrests and the arms of the Toby Wing can spread to offer unique moments of pure relax. The back sections slid backwards increase the seat depth of 42 cm whereas the sideways moving arms once extended, increase the seat width of 25 cm. The Toby wing becomes a unique place, an island where to rest, dream, taking a break in full comfort."
+  },
+  {
+    "id": 24,
+    "name": "Fleur",
+    "link": "./images/sofas/Fleur-1-705x705.jpg",
+    "model": "Fleur.1106",
+    "description": "Like two proper wings, the backrests and the arms of the Toby Wing can spread to offer unique moments of pure relax. The back sections slid backwards increase the seat depth of 42 cm whereas the sideways moving arms once extended, increase the seat width of 25 cm. The Toby wing becomes a unique place, an island where to rest, dream, taking a break in full comfort."
+  },
+  {
+    "id": 25,
+    "name": "Matheola LShape/Corner",
+    "link": "./images/sofas/Matheola-1-705x705.jpg",
+    "model": "MATHEOLA.1093/1088",
+    "description": "Like two proper wings, the backrests and the arms of the Toby Wing can spread to offer unique moments of pure relax. The back sections slid backwards increase the seat depth of 42 cm whereas the sideways moving arms once extended, increase the seat width of 25 cm. The Toby wing becomes a unique place, an island where to rest, dream, taking a break in full comfort."
+  },
+  {
+    "id": 26,
+    "name": "Coco",
+    "link": "./images/sofas/cal-1018_cocò-3-white-450x449.jpg",
+    "model": "COCO'.1018",
+    "description": "Like two proper wings, the backrests and the arms of the Toby Wing can spread to offer unique moments of pure relax. The back sections slid backwards increase the seat depth of 42 cm whereas the sideways moving arms once extended, increase the seat width of 25 cm. The Toby wing becomes a unique place, an island where to rest, dream, taking a break in full comfort."
+  },
+  {
+    "id": 27,
+    "name": "Matheola",
+    "link": "./images/sofas/Matheola-10-705x705.jpg",
+    "model": "MATHEOLA.1093/1088",
+    "description": "Matheola is the ancient name of Matera: that is how this model comes into shape, getting inspired by the flair of the land where it was born. Matheola is a low level, contemporary sofa, available both as fixed and sectional versions, thus being extremely versatile. The model boasts a mechanism placed in a panel positioned on the top rear side; the panel can be manually lifted thanks to two metal joints. A 90° rotation of the panel allows the back cushions to be repositioned, thus increasing the seat depth for improved comfort.The Matheola, available with removable fabric covers or in leather, gets additional personality thanks to its versatility: when the panel is lowered, it lines up with the armrests thus enhancing the club sofa style.When the panel is lifted, the back becomes higher, thus reshaping the sofa's design.The lifted back can be used as a headrest and turns the sofa into a niche where to completely relax.A timeless model, with clean lines further enhanced by the hidden feet and feather padding, which ensures that the sofa will remain unaltered with time, thanks to the material's capacity to recover its original shape after being pressured."
+  },
+  {
+    "id": 28,
+    "name": "Fox trot",
+    "link": "./images/sofas/Fox-trot-1-705x705.jpg",
+    "model": "Fox trotFOX TROT.1063",
+    "description": "Like two proper wings, the backrests and the arms of the Toby Wing can spread to offer unique moments of pure relax. The back sections slid backwards increase the seat depth of 42 cm whereas the sideways moving arms once extended, increase the seat width of 25 cm. The Toby wing becomes a unique place, an island where to rest, dream, taking a break in full comfort."
+  },
+  {
+    "id": 29,
+    "name": "Romeo Relax LShape/Corner",
+    "link": "./images/sofas/paride-2-705x705.jpg",
+    "model": "Romeo Relax Cal 808_R",
+    "description": "Like two proper wings, the backrests and the arms of the Toby Wing can spread to offer unique moments of pure relax. The back sections slid backwards increase the seat depth of 42 cm whereas the sideways moving arms once extended, increase the seat width of 25 cm. The Toby wing becomes a unique place, an island where to rest, dream, taking a break in full comfort."
+  },
+  {
+    "id": 30,
+    "name": "Elisir",
+    "link": "./images/sofas/Elisir-web-705x705.jpg",
+    "model": "Elisir CAL 1060/1078",
+    "description": "The Elisir stands out for its elegant, soft shapes, in stark contrast to the pin shaped legs, Thanks to a mechanism hidden within the head/back rests, the back element can be adjusted to the desired height and comfort."
+  }
+]

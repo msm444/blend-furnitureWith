@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Ferula",
+    "image": "images/classic/DC-028-400x400.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Karibù",
+    "image": "images/classic/DC-083-400x400.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Planeta",
+    "image": "images/classic/DC-121-400x400.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Pepe",
+    "image": "images/classic/DC-153-400x400.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mater familias Pouf",
+    "image": "images/classic/DC-156.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Medor writing desk",
+    "image": "images/classic/DE-122-400x400.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Salina II",
+    "image": "images/classic/DE-123.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Helena chair",
+    "image": "images/classic/DC-031-400x400.jpg"
+  }
+]
